@@ -29,7 +29,5 @@ void input()
     {
         cout << "Data ke-"<< (i + 1)<<":";//Memasukkan atau menginputkan nilai data n
         cin >> arr[i];//Menyimpan nilai data n ke dalam array arr
-    }
-    
-        
+    }       
 }
